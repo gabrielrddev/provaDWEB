@@ -1,9 +1,4 @@
-#projeto pessoal que estou fazendo para aprofundar meu conhecimento
+#PROVA DE DESENVOLVIMENTO WEB
 
-#patch-note-03
-foi modificado o sistema do react router para que maior organizacao
-foi criado a parte de forms para teste
+PROFESSOR, NÃO CONSEGUI FAZER COMPLETAMENTE AS FUNÇÕES, MAS FIZ O MEU MELHOR ESPERO QUE VOCÊ LEIA ISSO E TENHA DÓ ESTOU PRECISANDO DE 3 PARA PASSAR SENDO ACIMA DISSO TO FELIZ :)
 
-#futuras atts
-separar por um sistema de auth e sem auth para ter uma melhor administracao das paginas
-implementar style components
